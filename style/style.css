@@ -4,6 +4,7 @@ body {
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     margin: 0 auto;
     max-width: none;
+    max-height: none;
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
