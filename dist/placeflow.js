@@ -1,5 +1,5 @@
-/**
-  *
+/** PlaceFlow.js
+  * A progressive image renderer, work in progress.
   */
 
 
