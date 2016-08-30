@@ -16,7 +16,7 @@
       }
     }
 
-    return obj1
+    return obj1;
   }
 
   this.PlaceFlow = (function() {
