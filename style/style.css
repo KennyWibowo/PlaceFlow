@@ -1,19 +1,35 @@
 @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
 
+html {
+    height: 100%;
+}
+
 body {
-    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-    margin: 0 auto;
-    max-width: none;
-    max-height: none;
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    text-align: center;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  margin: 0 auto;
+  max-width: 38rem;
+  vertical-align: middle;
+  text-align: center
+
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 h1,
-h2,
-strong {
-    color: #333;
+p {
+  text-align: center
+  color: #034b91;
+  background-image: -webkit-linear-gradient(92deg,#034b91,#036f91);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title {
+  font-size: 6rem;
+}
+
+.content {
+  font-size: 2rem;
 }
