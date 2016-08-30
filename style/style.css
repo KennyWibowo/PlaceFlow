@@ -18,10 +18,19 @@ body {
 }
 
 h1,
-p {
+p,
+a {
   text-align: center
   color: #034b91;
   background-image: -webkit-linear-gradient(92deg,#034b91,#036f91);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a:hover {
+  text-align: center
+  color: #96cafd;
+  background-image: -webkit-linear-gradient(92deg,#96cafd,#96b0fd);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
