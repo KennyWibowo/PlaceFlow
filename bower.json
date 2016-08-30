@@ -1,0 +1,25 @@
+{
+  "name": "PlaceFlow",
+  "homepage": "https://kennywibowo.github.io/PlaceFlow/",
+  "authors": [
+    {"name": "Kenny Wibowo", "email": "kewibowo@ucsd.edu", "homepage": "http://wibow.io"}
+  ],
+  "description": "A nifty placeholder image renderer",
+  "main": "dist/placeflow.js",
+  "keywords": [
+    "image",
+    "rendering",
+    "render",
+    "placeholder",
+    "placeflow",
+    "placeflow.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
